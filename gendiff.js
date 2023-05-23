@@ -13,6 +13,5 @@ program.command('gendiff')
   .option('-V, --version', 'output the version number')
   .option('-h, --help', 'display help for command')
   .option('-f, --format [type]', 'outpur usage information')
-    // END
 
 program.parse();
